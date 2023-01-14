@@ -1,0 +1,7 @@
+---
+# {name} -> item name
+# {count} -> item count
+# {description} -> item description
+# {vanilla} -> item vanilla name
+format: "x{count} \n&e&l[&r&6 {name} &l&e]&r "
+...

@@ -1,0 +1,7 @@
+---
+name: itemNameTag
+version: 0.0.1
+main: kitsu\itemNameTag\Main
+api: 4.12.8
+src-namespace-prefix: kitsu\itemNameTag
+...
